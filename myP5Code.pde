@@ -12,9 +12,10 @@ void draw(){
 
   //💡⬇️⬇️⬇️💡 Your Code For This Project Goes Here
   
-
-  
-
+rect(76,45,250,300);//body
+rect(110,90,182,130);//face frame
+ellipse(140,150,20,20);//left eye
+ellipse(250,150,20,20);//right eye
 }
 
 //🟡Extra FUN Features Ms. Hall Added
